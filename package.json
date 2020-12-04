@@ -1,0 +1,15 @@
+{
+  "name": "daily-coding-problems",
+  "author": "Gergő Ábrahám (abrahamgergo@gmail.com)",
+  "description": "My solutions for the Daily Coding Problems.",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "tdd": "jest --watch"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "jest": "^26.6.3"
+  }
+}
