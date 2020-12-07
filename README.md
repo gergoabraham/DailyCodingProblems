@@ -1,6 +1,8 @@
 # Daily Coding Problems
 
-Here are my solutions for the Daily Coding Problems.
+Here are my solutions for the [Daily Coding Problems](https://www.dailycodingproblem.com/).
+
+You can find the algorithms together with tests in the [problems](problems) folder.
 
 ## #1 [Easy]
 
